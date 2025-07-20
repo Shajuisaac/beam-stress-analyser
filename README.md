@@ -13,7 +13,7 @@ You enter:
 - The **length of the beam** (in meters)
 - The **magnitude of the point load** (in Newtons)
 
-Then click **Analyze**, and boom 💥 — you'll see the corresponding **Shear Force Diagram (SFD)** and **Bending Moment Diagram (BMD)**, plotted right inside the app using Matplotlib.
+Then click **Analyze**, you'll see the corresponding **Shear Force Diagram (SFD)** and **Bending Moment Diagram (BMD)**, plotted right inside the app using Matplotlib.
 
 No external CAD or simulation software needed.
 
@@ -30,7 +30,7 @@ I kept things minimal and easy to run on any system.
 
 ---
 
-## ▶How to Use
+## How to Use
 
 1. Clone or download the repo  
 2. Install the required libraries:
